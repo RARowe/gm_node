@@ -1,0 +1,11 @@
+{
+  "name": "gm_node",
+  "version": "1.0.0",
+  "description": "Simple GroupMe client/server for kicks and giggles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Rowe",
+  "license": "MIT"
+}
